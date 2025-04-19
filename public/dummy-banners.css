@@ -1,0 +1,31 @@
+/* CSS for placeholder banners when actual images are not available */
+
+.vishu-banner-placeholder {
+  background: linear-gradient(45deg, #009688, #4CAF50);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.easter-banner-placeholder {
+  background: linear-gradient(45deg, #FFEB3B, #FFC107);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.grocery-banner-placeholder {
+  background: linear-gradient(45deg, #FF9800, #F57C00);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+} 
